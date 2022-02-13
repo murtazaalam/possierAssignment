@@ -1,0 +1,45 @@
+[
+    {
+        "name":"Product 1",
+        "alias":"Product second name",
+        "menu_category":"Roti",
+        "food_menu":"Veg",
+        "product_type":"Menu Type",
+        "description":"product description here",
+        "HSN":"ABC123",
+        "EAN":"DEF432",
+        "variant":[
+            {
+                "variant_name":"Regular",
+                "swiggy_price":"123",
+                "zomato_price":"123",
+                "dunzo_price":"123",
+                "dynein_price":"123",
+                "delivery_price":"123",
+                "takeout_price":"123"
+            }
+        ]
+
+    },
+    {
+        "name":"Product 2",
+        "alias":"Product 2 second name",
+        "menu_category":"Dal",
+        "food_menu":"Veg",
+        "product_type":"Menu Type",
+        "description":"product description here",
+        "HSN":"ABC123",
+        "EAN":"DEF432",
+        "price":[
+            {
+                "variant_name":"Regular",
+                "swiggy_price":"123",
+                "zomato_price":"123",
+                "dunzo_price":"123",
+                "dynein_price":"123",
+                "delivery_price":"123",
+                "takeout_price":"123"
+            }
+        ]
+    }
+]

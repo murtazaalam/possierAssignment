@@ -1,0 +1,20 @@
+1. List of all courses
+>>>>> http://techvanto.herokuapp.com/allcourses
+
+2. single course
+>>>>>   http://techvanto.herokuapp.com/allcourses/_id
+
+3. Instructor detail with respect to course id
+>>>>>  http://techvanto.herokuapp.com/instructor/course_id
+
+4. All categories
+>>>>>  http://techvanto.herokuapp.com/category
+
+5. Category with respect to category id
+>>>>> http://techvanto.herokuapp.com/category/catId
+
+6. Courses with respect to category id and limit_value
+>>>>> https://techvanto.herokuapp.com/courses/category_id?limit_value=2
+
+6. courses with respect to limit value and skip value
+>>>>> http://techvanto.herokuapp.com/allcourses?skip_value=5&limit_value=6
